@@ -1,1 +1,6 @@
 i am a new comer
+<<<<<<< HEAD
+this is from dev
+=======
+this is from dev2
+>>>>>>> dev2
